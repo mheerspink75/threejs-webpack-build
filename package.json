@@ -2,6 +2,7 @@
   "name": "css3d_sprites",
   "version": "1.0.0",
   "description": "threejs",
+  "homepage": "https://mheerspink75.github.io/threejs-webpack-build/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "start": "webpack-dev-server",
