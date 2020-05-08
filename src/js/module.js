@@ -4,6 +4,7 @@ import { TWEEN } from "three/examples/jsm/libs/tween.module.min.js";
 import { TrackballControls } from "three/examples/jsm/controls/TrackballControls.js";
 import { CSS3DRenderer, CSS3DSprite } from "three/examples/jsm/renderers/CSS3DRenderer.js";
 
+let sprite = '3a44e52c86abed5496a47a4b9df14415.png';
 
 var camera, scene, renderer;
 var controls;
@@ -46,7 +47,7 @@ function init() {
     },
     false
   );
-  image.src ="src/textures/sprite.png";
+  image.src = sprite;
 
   // Plane
 
