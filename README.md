@@ -1,13 +1,12 @@
 ### threejs-webpack-build
 
-*~ threejs example animation bundled with webpack*
+*~threejs example animation bundled with webpack*
 
 
 
 
 
-<iframe width="650" height="315" src="https://mheerspink75.github.io/threejs-webpack-build" frameborder="0">
-</iframe>
+<iframe width="650" height="315" src="https://mheerspink75.github.io/threejs-webpack-build" frameborder="0"></iframe>
 
 
 [![Edit css3d-sprites](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/css3d-sprites-ybu49?fontsize=14&hidenavigation=1&theme=dark)
