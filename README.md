@@ -1,6 +1,10 @@
 ### threejs-webpack-build
 
+<<<<<<< HEAD
 *~ threejs example animation bundled with webpack*
+=======
+*~threejs example animation bundled with webpack*
+>>>>>>> a1cb9c8fc53a309160deefa51bb2e8f5d25f132a
 
 ---
 
